@@ -1,4 +1,4 @@
-Hello World!
+Hello!
 git init
 git add .
 git commit -m "19h26"

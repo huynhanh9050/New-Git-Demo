@@ -1,1 +1,5 @@
 Hello World!
+git init
+git add .
+git commit -m "19h26"
+Restore: git checkout .
